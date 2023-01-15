@@ -36,9 +36,9 @@ rows: [
 let name = await conn.getName(m.sender)
 const listMessage = {
 text: `*ミ💖 𝗛𝗢𝗟𝗔 _${name}_ 💖彡*
-Contacto: +52 1 33 2037 5541
+Contacto: ++60 10-910 2984
 Gmail: ////
-PayPal: https://www.paypal.me/aLeX677171`, footer: `${wm}`, pp,
+PayPal: https://www.paypal.me/`, footer: `${wm}`, pp,
 title: null,
 buttonText: "𝗟𝗜𝗦𝗧𝗔 𝗗𝗘 𝗖𝗢𝗟𝗔𝗕𝗢𝗥𝗔𝗗𝗢𝗥𝗘𝗦", 
 sections }
